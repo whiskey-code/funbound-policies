@@ -61,6 +61,42 @@ To the fullest extent permitted by law, Funbound and its creators are not liable
 We may update these Terms from time to time.
 If we make significant changes, we’ll update the “Last updated” date at the top.
 Continuing to use the App means you accept the updated Terms.
+📄 Updated Terms of Use Sections
+📸 User‑Generated Photos
+You are responsible for the photos you take within Funbound.
+By using the camera feature, you agree that:
+• 	You own the rights to the photos you capture
+• 	You will not capture or store illegal or harmful content
+• 	Funbound does not claim ownership of your photos
+• 	Funbound does not back up your photos to the cloud
+If you delete the app, your photos may be removed from your device unless you saved them elsewhere.
+Funbound is not responsible for:
+• 	Loss of photos
+• 	Loss of saved trips
+• 	Loss of offline data due to device issues, deletion, or reinstalling the app
+
+🧭 Feature Access
+Some features in Funbound require a paid subscription (Funbound Pro).
+Access to these features is granted only while your subscription is active.
+
+💾 Local Storage & Offline Data
+Funbound stores certain data locally on your device to support offline functionality.
+You are responsible for managing and backing up your device’s data.
+🎯 App Store Privacy Questionnaire Answers (for when you submit)
+These are the answers you’ll select:
+Data Types Collected
+• 	Location (coarse or precise)
+• 	User‑generated content (photos, trip notes)
+• 	App activity (offline data, saved trips)
+Data Usage
+• 	App functionality only
+• 	Not linked to the user
+• 	Not used for tracking
+• 	Not shared with third parties
+Tracking
+• 	No, we do not track users
+Data Storage
+• 	On device only
 
 📬 10. Contact Us
 If you have questions about these Terms, reach out anytime:
