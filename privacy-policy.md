@@ -68,7 +68,39 @@ However, no method of transmission or storage is 100% secure.
 ✏️ 8. Changes to This Policy
 We may update this Privacy Policy from time to time.
 If we make significant changes, we’ll update the “Last updated” date at the top.
+📄 Updated Privacy Policy Sections
+📸 Camera & Photos
+Funbound allows users to take photos for their trips.
+When you choose to use the camera feature:
+• 	Photos are captured only when you tap the camera button
+• 	Photos are stored locally on your device
+• 	Photos are never uploaded to our servers
+• 	Photos are never shared, analyzed, or used for tracking
+• 	You can delete your photos at any time inside the app
+Funbound does not access your device’s photo library unless you explicitly choose to save a photo there.
+📡 Offline Mode & Local Storage
+Funbound includes an offline mode that stores certain data on your device to improve your experience when you don’t have an internet connection.
+This may include:
+• 	Your saved trips
+• 	Your trip photos
+• 	Cached location‑based suggestions
+• 	Basic app settings
+All offline data is stored locally on your device only.
+Funbound does not transmit this data to any server.
+📍 Location Information
+Funbound uses your location to suggest nearby activities and destinations.
+• 	Location data is used only while the app is in use
+• 	Location data is not stored permanently
+• 	Location data is not shared with third parties
+• 	Offline mode may temporarily cache location‑based results on your device
 
+🔐 Data Sharing
+Funbound does not:
+• 	Sell your data
+• 	Share your data with advertisers
+• 	Track you across apps or websites
+• 	Upload your photos or trip data
+Everything stays on your device unless you choose to export or share it.
 📬 9. Contact Us
 If you have questions about this Privacy Policy or how Funbound handles your data, reach out anytime:
 mynfservice@gmail.com
